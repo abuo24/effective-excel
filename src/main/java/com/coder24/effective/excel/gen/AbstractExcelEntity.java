@@ -1,4 +1,4 @@
-package com.example.effective.excel.gen;
+package com.coder24.effective.excel.gen;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.example.effective.excel;
+package com.coder24.effective.excel;
 
 import org.apache.poi.ss.usermodel.Row;
 

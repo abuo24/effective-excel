@@ -1,8 +1,8 @@
-package com.example.effective.excel.gen;
+package com.coder24.effective.excel.gen;
 
-import com.example.effective.ChunkSizeEnum;
-import com.example.effective.excel.ExcelBody;
-import com.example.effective.exception.EffectiveWriterException;
+import com.coder24.effective.ChunkSizeEnum;
+import com.coder24.effective.excel.ExcelBody;
+import com.coder24.effective.exception.EffectiveWriterException;
 import jakarta.servlet.ServletOutputStream;
 import jakarta.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;

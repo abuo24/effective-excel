@@ -1,6 +1,6 @@
-package com.example.effective.excel.gen;
+package com.coder24.effective.excel.gen;
 
-import com.example.effective.excel.ExcelBody;
+import com.coder24.effective.excel.ExcelBody;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;

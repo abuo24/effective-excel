@@ -1,4 +1,4 @@
-package com.example.effective;
+package com.coder24.effective;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package com.example.effective.exception;
+package com.coder24.effective.exception;
 
 /**
  * @author Orifjon Yunusjonov

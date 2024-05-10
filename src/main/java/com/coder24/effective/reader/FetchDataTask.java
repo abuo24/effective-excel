@@ -1,4 +1,4 @@
-package com.example.effective.reader;
+package com.coder24.effective.reader;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

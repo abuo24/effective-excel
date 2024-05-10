@@ -1,7 +1,7 @@
-package com.example.effective.reader;
+package com.coder24.effective.reader;
 
-import com.example.effective.ChunkSizeEnum;
-import com.example.effective.exception.EffectiveReaderException;
+import com.coder24.effective.ChunkSizeEnum;
+import com.coder24.effective.exception.EffectiveReaderException;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.List;
