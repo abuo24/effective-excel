@@ -86,10 +86,10 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:https://github.com/Natural-Intelligence/openLineage-openMetadata-transporter.git
+        <connection>scm:git:https://github.com/abuo24/effective-excel.git
         </connection>
-        <url>https://github.com/Natural-Intelligence/openLineage-openMetadata-transporter.git</url>
-        <developerConnection>scm:git:https://github.com/Natural-Intelligence/openLineage-openMetadata-transporter.git
+        <url>https://github.com/abuo24/effective-excel.git</url>
+        <developerConnection>scm:git:https://github.com/abuo24/effective-excel.git
         </developerConnection>
         <tag>HEAD</tag>
     </scm>
